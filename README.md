@@ -26,7 +26,7 @@ Cursos: Meta verso - Web3 - IRede
 
 [Vídeo do Pitch do projeto]()   
 [Vídeo com apresentação funcional do projeto](https://youtu.be/t6te20IFsSU)    
-[Arquivo da apresentaçao do Pitch]()   
+[Arquivo da apresentação do Pitch]()   
 [Página de acesso ao aplicativo](
 https://rjfurlan.github.io/CourseIRede_Web3_Hackathon_EscolaDoFuturo/)  
 [Repositório do projeto](https://github.com/rjfurlan/CourseIRede_Web3_Hackathon_EscolaDoFuturo)
@@ -87,7 +87,7 @@ Cada sala possui identidade visual própria representada por cores específicas:
 
 Ao entrar em uma sala, o estudante encontra:
 
-* Um painel intrativo com as atividades propostas;
+* Um painel interativo com as atividades propostas;
 * um pedestal a onde será mostrado o objeto a ser explorado.
 
 Quando uma atividade é selecionada:
@@ -182,9 +182,13 @@ Basta abrir o endereço disponibilizado pelo projeto e clicar em "Iniciar Escola
 git clone <URL_DO_REPOSITORIO>
 ```
 
-2. Abra o projeto utilizando uma versão compatível do Unity.
+2. Abra o projeto utilizando a versão do Unity 6.3 LTS (6000.3.13f1).
 
-3. Execute a cena inicial do projeto ou gere uma nova build WebGL.
+3. Mude para a cena inicial do projeto: Lobby
+
+4. Faça o switch do profile para Web-Desktop-Release
+
+5. Gere o novo Build ou rode direto da IDE.
 
 ---
 
