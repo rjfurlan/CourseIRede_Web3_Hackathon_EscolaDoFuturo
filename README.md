@@ -24,7 +24,7 @@ Cursos: Meta verso - Web3 - IRede
 
 ## Links relevantes  
 
-[Vídeo do Pitch do projeto]()   
+[Vídeo do Pitch do projeto](https://youtu.be/1uLV__DdXIA)   
 [Vídeo com apresentação funcional do projeto](https://youtu.be/t6te20IFsSU)    
 [Arquivo da apresentação do Pitch](./docs/Slides.pdf)   
 [Página de acesso ao aplicativo](
