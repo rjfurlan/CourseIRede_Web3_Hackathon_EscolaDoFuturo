@@ -113,7 +113,7 @@
 |T| Title     | Jet pass slow close roof 77mel 190831.flac |
 |A| Author    | TRP |
 |S| Source    | https://freesound.org/people/TRP/sounds/574098/|
-|L| License   | Creative Commons 0 - https://creativecommons.org/publicdomain/zero/1.0/|
+|L| License   | CC0 1.0 - https://creativecommons.org/publicdomain/zero/1.0/|
 | | File Name | 574098__trp__jet-pass-slow-close-roof-77mel-190831.flac |
 | | Credits   | Jet pass slow close roof 77mel 190831.flac by TRP -- https://freesound.org/s/574098/ -- License: Creative Commons 0|
 
@@ -180,8 +180,7 @@
 ||||
 |:-:|:-:|--|
 |T| Title     | Steam engine - slide distribution system Rider |
-|A| Author    | Avatar of 3dhdscan
-3dhdscan |
+|A| Author    | 3dhdscan |
 |S| Source    | https://sketchfab.com/3d-models/steam-engine-slide-distribution-system-rider-518cc68fbf0e4aad946286150c8f88bc |
 |L| License   | CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/ |
 | | File Name | steam_engine_-_slide_distribution_system_rider.glb |
