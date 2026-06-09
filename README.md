@@ -20,15 +20,18 @@ Data: 09/06/2026
 Atividade: Hackathon  
 Cursos: Meta verso - Web3 - IRede
 
+---  
+  
+# --------- Página de acesso ao aplicativo ---------
+
+[Página de acesso ao aplicativo](
+https://rjfurlan.github.io/CourseIRede_Web3_Hackathon_EscolaDoFuturo/) 
+
 ---
-
-## Links relevantes  
-
+## Links relevantes
 [Vídeo do Pitch do projeto](https://youtu.be/1uLV__DdXIA)   
 [Vídeo com apresentação funcional do projeto](https://youtu.be/t6te20IFsSU)    
 [Arquivo da apresentação do Pitch](./docs/Slides.pdf)   
-[Página de acesso ao aplicativo](
-https://rjfurlan.github.io/CourseIRede_Web3_Hackathon_EscolaDoFuturo/)  
 [Repositório do projeto](https://github.com/rjfurlan/CourseIRede_Web3_Hackathon_EscolaDoFuturo)
 
 ## Sobre o Projeto
